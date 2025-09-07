@@ -1,16 +1,35 @@
-## Hi there 👋
+# William Bland
 
-<!--
-**TheBlandit/TheBlandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Located in the South West of England.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently in my second year of college for my Maths, Further Maths, Computer Science and Physics A-levels.
+
+I use Arch Linux and Neovim btw.
+
+## Interests
+
+Low level development.
+
+Gaming (games such as Satisfactory, Terraria and KSP).
+
+## Active projects
+
+Using LaTeX to create a document about the major features of the x86 architecture (such as assembly, cache (and MESI), paging and segmentation) and coding programs such as 'cat' in assembly.
+
+Using Rust to create a secure messaging/chat application for my Computer Science NEA, and using LaTeX to document it.
+
+Using Rust and WGPU to create an automation/factory game (started around March 2024).
+
+## Languages
+
+Language|Fluency
+-|-
+Rust|Very fluent in it
+LaTeX|Used it to create large PDFs, relatively fluent
+Bash|Have created many scripts in it
+Wgsl|Have created many simple shaders
+Python|Use it for some school work (but dislike it)
+C/C++|Have a limited experience of C but am learning it
+C#|Have a lot of experience in it but haven't used it recently
