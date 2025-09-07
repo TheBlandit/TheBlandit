@@ -1,7 +1,5 @@
 # William Bland
 
-## About Me
-
 Located in the South West of England.
 
 Currently in my second year of college for my Maths, Further Maths, Computer Science and Physics A-levels.
