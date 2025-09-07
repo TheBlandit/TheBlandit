@@ -22,16 +22,16 @@ Using Rust and WGPU to create an automation/factory game (started around March 2
 
 ## Languages
 
-Language|Fluency
+Language|Fluency/Experience
 -|-
-Rust|Very fluent in it
-LaTeX|Used it to create large PDFs, relatively fluent
+Rust|Primary language since September 2023, very fluent
+LaTeX|Used it to create large PDFs
 Bash|Have created many scripts in it
 Wgsl|Have created many simple shaders
 Python|Use it for some school work (but dislike it)
 Lua|Use it for Neovim config
 C/C++|Have a limited experience of C but am learning it
-C#|Have a lot of experience in it but haven't used it recently
+C#|Used it with Godot but haven't programmed in it recently
 
 ## Journey
 
