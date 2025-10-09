@@ -25,12 +25,14 @@ Using Rust and WGPU to create an automation/factory game (started around March 2
 Language|Fluency/Experience
 -|-
 Rust|Primary language since September 2023, very fluent
+C|Created a simple baremetal 'kernel'
+x86 asm|Created a few Linux and baremetal programs
 LaTeX|Used it to create large PDFs
 Bash|Have created many scripts in it
 Wgsl|Have created many simple shaders
 Python|Use it for some school work (but dislike it)
 Lua|Use it for Neovim config
-C/C++|Have a limited experience of C but am learning it
+C++|Have created a few simple programs with OOP
 C#|Used it with Godot but haven't programmed in it recently
 
 ## Journey
@@ -41,4 +43,4 @@ Switched to using Godot (with C#) around May 2023.
 Switched to learning Rust to create games in September 2023.
 Started using Linux Mint in September 2024, and started using Git, Neovim and LaTeX soon after.
 Switched fully to using Linux Mint in March 2025 then Arch a Month later (where I started scripting using Bash).
-Began the x86 architecture project where I started learning assembly and some C (to help with understanding the layout of some structs such as stat defined in header files).
+Began the x86 architecture project where I started learning assembly and C (to write a 'kernel' in)
