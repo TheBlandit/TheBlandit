@@ -4,7 +4,7 @@ Located in the South West of England.
 
 Currently in my second year of college for my Maths, Further Maths, Computer Science and Physics A-levels.
 
-I use Arch Linux and Neovim btw.
+I use MacOS and VSCode.
 
 ## Interests
 
@@ -24,13 +24,13 @@ Using Rust and WGPU to create an automation/factory game (started around March 2
 
 Language|Fluency/Experience
 -|-
-Rust|Primary language since September 2023, very fluent
+Rust|Primary language since September 2023, very slow compile times
 C|Created a simple baremetal 'kernel'
 x86 asm|Created a few Linux and baremetal programs
 LaTeX|Used it to create large PDFs
 Bash|Have created many scripts in it
 Wgsl|Have created many simple shaders
-Python|Use it for some school work (but dislike it)
+Python|Use it for some school work (and LOVE it)
 Lua|Use it for Neovim config
 C++|Have created a few simple programs with OOP
 C#|Used it with Godot but haven't programmed in it recently
@@ -41,6 +41,7 @@ Started programming python in mid-2021.
 Started using Unreal Engine to create 'games' around April 2022.
 Switched to using Godot (with C#) around May 2023.
 Switched to learning Rust to create games in September 2023.
+Became a furry September 2023
 Started using Linux Mint in September 2024, and started using Git, Neovim and LaTeX soon after.
-Switched fully to using Linux Mint in March 2025 then Arch a Month later (where I started scripting using Bash).
+Switched fully to using Linux Mint in March 2025 then Arch a Month later (where I started scripting using Bash and became a femboy).
 Began the x86 architecture project where I started learning assembly and C (to write a 'kernel' in)
