@@ -12,26 +12,33 @@ Low level development.
 
 Gaming (games such as Satisfactory, Terraria and KSP).
 
-## Active projects
-
-Using LaTeX to create a document about the major features of the x86 architecture (such as assembly, cache (and MESI), paging and segmentation) and coding programs such as 'cat' in assembly.
-
-Using Rust to create a secure messaging/chat application for my Computer Science NEA, and using LaTeX to document it.
+## Active Projects
 
 Using Rust and WGPU to create an automation/factory game (started around March 2024).
+
+Using Rust to create a simple TUI music player.
+
+Using C to create a kernel using UEFI.
+
+## Finished Projects
+
+Used LaTeX to create a document about the major features of the x86 architecture (such as assembly, cache (and MESI), paging and segmentation) and coded programs such as 'cat' in assembly.
+
+Used Rust to create a secure messaging/chat application for my Computer Science NEA (Non-Exam Assessment), and used LaTeX to document it.
 
 ## Languages
 
 Language|Fluency/Experience
 -|-
 Rust|Primary language since September 2023, very fluent
-C|Created a simple baremetal 'kernel'
-x86 asm|Created a few Linux and baremetal programs
+C|Created a simple baremetal kernel
+x86 asm|Created a few Linux and baremetal programs (using BIOS)
 LaTeX|Used it to create large PDFs
 Bash|Have created many scripts in it
+Fish|Used it for my interactive shell
 Wgsl|Have created many simple shaders
 Python|Use it for some school work (but dislike it)
-Lua|Use it for Neovim config
+Lua|Use it for Neovim and Hyprland config
 C++|Have created a few simple programs with OOP
 C#|Used it with Godot but haven't programmed in it recently
 
