@@ -2,7 +2,7 @@
 
 Located in the South West of England.
 
-Currently in my second year of college for my Maths, Further Maths, Computer Science and Physics A-levels.
+Finished my second year of college for my Maths, Further Maths, Computer Science and Physics A-levels.
 
 I use Arch Linux and Neovim btw.
 
@@ -12,13 +12,15 @@ Low level development.
 
 Gaming (games such as Satisfactory, Terraria and KSP).
 
+Reverse engineering (eg overthewire.org wargames)
+
 ## Active Projects
 
 Using Rust and WGPU to create an automation/factory game (started around March 2024).
 
 Using Rust to create a simple TUI music player.
 
-Using C to create a kernel using UEFI.
+Using Rust to create an x86-64 kernel and bootloader using UEFI.
 
 ## Finished Projects
 
@@ -30,8 +32,8 @@ Used Rust to create a secure messaging/chat application for my Computer Science 
 
 Language|Fluency/Experience
 -|-
-Rust|Primary language since September 2023, very fluent
-C|Created a simple baremetal kernel
+Rust|Primary language since September 2023, created many large programs
+C|Created a few simple baremetal and regular programs
 x86 asm|Created a few Linux and baremetal programs (using BIOS)
 LaTeX|Used it to create large PDFs
 Bash|Have created many scripts in it
