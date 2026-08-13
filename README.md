@@ -2,7 +2,9 @@
 
 Located in the South West of England.
 
-Finished my second year of college for my Maths, Further Maths, Computer Science and Physics A-levels.
+Going to Exeter University to study Computer Science and Mathematics.
+
+Achieved A*s in Maths, Further Maths, Computer Science and Physics A-levels.
 
 I use Arch Linux and Neovim btw.
 
